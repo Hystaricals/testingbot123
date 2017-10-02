@@ -1,4 +1,3 @@
-# testingbot123
 var Bot = require('discord-bot');
 bot.connect();
 
